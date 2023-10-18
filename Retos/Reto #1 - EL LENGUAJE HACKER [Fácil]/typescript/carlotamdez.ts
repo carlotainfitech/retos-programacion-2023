@@ -57,4 +57,3 @@ const encoding: Record<string, string> = {
   const result = iniciar(word);
   console.log(result);
 
-
